@@ -1,61 +1,86 @@
-🌍 Child Labour Awareness Website
+# 🌍 Child Labour Awareness Website
 
-A responsive and interactive Child Labour Awareness Website created using HTML, CSS, and JavaScript.
-This project aims to spread awareness about child labour, its causes, laws, statistics, NGOs, and solutions.
+> A responsive and interactive awareness platform built using **HTML, CSS, and JavaScript**
 
-📌 Features
+![Status](https://img.shields.io/badge/Status-Completed-success)
+![HTML](https://img.shields.io/badge/HTML5-✔️-orange)
+![CSS](https://img.shields.io/badge/CSS3-✔️-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-✔️-yellow)
 
-🌐 Multi-language support (English, Hindi, Punjabi)
+The **Child Labour Awareness Website** is a front-end project aimed at spreading awareness about child labour, its causes, laws, statistics, NGOs, helplines, and solutions.  
+It focuses on **social awareness**, **clean UI**, and **interactive content**, making it suitable for both academic submission and portfolio use.
 
-📊 Child labour statistics visualization using Chart.js
+---
 
-⏰ Live date and time display
+## 📋 Table of Contents
 
-🧭 Smooth scrolling navigation
+- [Features](#-features)
+- [Tech Stack](#-tech-stack)
+- [Project Structure](#-project-structure)
+- [Installation](#-installation)
+- [Usage](#-usage)
+- [Purpose of the Project](#-purpose-of-the-project)
+- [Future Enhancements](#-future-enhancements)
+- [Author](#-author)
+- [License](#-license)
+- [Contact](#-contact)
 
-🎨 Modern dark-themed UI
+---
 
-📱 Mobile-friendly and responsive design
+## ✨ Features
 
-📝 Feedback survey integration
+- 🌐 **Multi-language support**
+  - English  
+  - Hindi  
+  - Punjabi  
 
-📞 Child labour helpline information
+- 📊 **Child labour statistics visualization**
+  - Interactive charts using **Chart.js**
 
-🛠️ Technologies Used
+- ⏰ **Live date & time display**
 
-HTML5
+- 🧭 **Smooth scrolling navigation**
 
-CSS3
+- 🎨 **Modern dark-themed UI**
 
-JavaScript
+- 📱 **Fully responsive design**
+  - Mobile, tablet, and desktop friendly
 
-Chart.js
+- 📝 **Feedback survey form**
 
-Google Fonts
+- 📞 **Child labour helpline information**
 
-📂 Project Structure
-child-labour-awareness/
-├── index.html
-└── README.md
+---
 
-🎯 Purpose of the Project
+## 🛠 Tech Stack
 
-The main objective of this project is to educate people about child labour, promote social awareness, and encourage action through information, data visualization, and helpline support.
+### Frontend
+- **HTML5** – Structure and content
+- **CSS3** – Styling and responsiveness
+- **JavaScript** – Interactivity and dynamic behavior
+- **Chart.js** – Data visualization
+- **Google Fonts** – Typography
 
-👨‍💻 Author
+---
+---
 
-Ayush Bansal
-📧 Email: bansalayush475@gmail.com
+## 🚀 Installation
 
-📞 Contact: +91 98727 91266
+### Prerequisites
+- Any modern web browser (Chrome, Edge, Firefox)
+- Code editor (VS Code recommended)
 
-🎓 Academic Project
+### Steps to Run Locally
 
-This project is developed for academic and learning purposes and can also be used as a front-end portfolio project.
+```bash
+# Clone the repository
+git clone https://github.com/bansalayush475/child-labour-awareness.git
 
-📜 License
+# Navigate to project folder
+cd child-labour-awareness
 
-This project is for educational and awareness purposes only.
-You are free to use and modify it with proper credit.
+# Open index.html in your browser
 
-⭐ If you find this project helpful, consider giving it a star on GitHub!
+
+## 📁 Project Structure
+
