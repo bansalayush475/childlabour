@@ -58,8 +58,7 @@ It focuses on **social awareness**, **clean UI**, and **interactive content**, m
 - **HTML5** – Structure and content
 - **CSS3** – Styling and responsiveness
 - **JavaScript** – Interactivity and dynamic behavior
-- **Chart.js** – Data visualization
-- **Google Fonts** – Typography
+
 
 ---
 ---
